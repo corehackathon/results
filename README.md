@@ -6,7 +6,7 @@
   [https://github.com/hohlick/CoReHackaton---BI47](https://github.com/hohlick/CoReHackaton---BI47/blob/master/README.md) 
   [https://youtu.be/ZQg_yZ_fRnw?t=49m1...](https://youtu.be/ZQg_yZ_fRnw?t=49m17s)
  
-2. FirstPartyData 
+2. FirstPartyData  
   Александр Морин, Денис Соболев, Павел Максимов, Дмитрий Воронин 
   [https://github.com/qwerned/corehackathon](https://github.com/qwerned/corehackathon)
 
