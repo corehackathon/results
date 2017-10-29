@@ -3,9 +3,9 @@
 1. BI47 
 [Максим Зеленский (Maxim Zelensky)](https://www.facebook.com/hohlick), [Александр Налётов](https://www.facebook.com/musicorc), [Nikita Golubtsov](https://www.facebook.com/nikita.golubtsov.1), Алексей Марков ![](https://www.facebook.com/images/emoji.php/v9/f35/1/18/1f517.png)
 
-🔗[https://github.com/hohlick/CoReHackaton---BI47](https://github.com/hohlick/CoReHackaton---BI47/blob/master/README.md) ![](https://www.facebook.com/images/emoji.php/v9/f81/1/18/1f3a5.png)
+[https://github.com/hohlick/CoReHackaton---BI47](https://github.com/hohlick/CoReHackaton---BI47/blob/master/README.md) ![](https://www.facebook.com/images/emoji.php/v9/f81/1/18/1f3a5.png)
   
-  🎥 [https://youtu.be/ZQg_yZ_fRnw?t=49m1...](https://youtu.be/ZQg_yZ_fRnw?t=49m17s)
+[https://youtu.be/ZQg_yZ_fRnw?t=49m1...](https://youtu.be/ZQg_yZ_fRnw?t=49m17s)
  
 2. FirstPartyData 
 Александр Морин, Денис Соболев, Павел Максимов, Дмитрий Воронин 
