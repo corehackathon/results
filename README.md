@@ -10,21 +10,21 @@
   Александр Морин, Денис Соболев, Павел Максимов, Дмитрий Воронин 
   [https://github.com/qwerned/corehackathon](https://github.com/qwerned/corehackathon)
 
-3. Ура - Аналитикс 
+3. Ура - Аналитикс  
   Антон Астахов, Сергей Лосев, Иван Иванов, Юрий Батиевский 
   [https://github.com/UraAnalytics/corehackathon/](https://github.com/UraAnalytics/corehackathon/)
 
 ## Другие участники (в произвольном порядке):
 
-* BIteam 
+* BIteam  
   Алексей Спорыхин, Федор Холькин, Максим Коваленко, Вова Мюге 
   [https://github.com/alexsp1702/Hachaton](https://github.com/alexsp1702/Hachaton)
 
-* 5+1 
+* 5+1  
   Диана Крюкова, Антон Ступин, Александр Мадонов, Александр Мазько, Лев Баранов, Дмитрий Аладьев
   [https://github.com/dianekryukova/hackathon.git](https://github.com/dianekryukova/hackathon.git)
 
-* Хардкор по факту 
+* Хардкор по факту  
   [Sergey Belyanin](https://www.facebook.com/sergei.belianin), [Dmitry Tumaykin](https://www.facebook.com/tumaykindmitry) ?
 
   
