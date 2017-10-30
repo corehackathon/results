@@ -6,7 +6,7 @@
 
    * [Максим Зеленский](https://www.facebook.com/hohlick),
    * [Александр Налётов](https://www.facebook.com/musicorc),
-   * [Nikita Golubtsov](https://www.facebook.com/nikita.golubtsov.1),
+   * [Никита Голубцов](https://www.facebook.com/nikita.golubtsov.1),
    * [Алексей Марков](https://www.facebook.com/marcov.aleksey)
   
 
