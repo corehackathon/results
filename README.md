@@ -1,20 +1,33 @@
 ## Призеры:
 
-1. [BI47](https://github.com/hohlick/CoReHackaton---BI47/blob/master/README.md)  
+1. [BI47](https://github.com/hohlick/CoReHackaton---BI47/blob/master/README.md)
 
-[Максим Зеленский (Maxim Zelensky)](https://www.facebook.com/hohlick), [Александр Налётов](https://www.facebook.com/musicorc), [Nikita Golubtsov](https://www.facebook.com/nikita.golubtsov.1), [Алексей Марков](https://www.facebook.com/marcov.aleksey)
+   ![](https://www.facebook.com/images/emoji.php/v9/f35/1/18/1f517.png) [Видео выступления](https://youtu.be/ZQg_yZ_fRnw?t=49m17s)
+
+   * [Максим Зеленский](https://www.facebook.com/hohlick),
+   * [Александр Налётов](https://www.facebook.com/musicorc),
+   * [Nikita Golubtsov](https://www.facebook.com/nikita.golubtsov.1),
+   * [Алексей Марков](https://www.facebook.com/marcov.aleksey)
   
-![](https://www.facebook.com/images/emoji.php/v9/f35/1/18/1f517.png) [Видео выступления](https://youtu.be/ZQg_yZ_fRnw?t=49m17s)
-
 
 2. [FirstPartyData](https://github.com/qwerned/corehackathon)  
 
-[Александр Морин](https://www.facebook.com/profile.php?id=100013555926078), [Денис Соболев](https://www.facebook.com/dnsobolev), [Павел Максимов](https://www.facebook.com/goodppc), [Дмитрий Воронин](https://www.facebook.com/profile.php?id=100013555569648) 
+   ![](https://www.facebook.com/images/emoji.php/v9/f35/1/18/1f517.png) [Видео выступления](https://www.youtube.com/watch?v=ZQg_yZ_fRnw&t=1h12m40s)
+
+   * [Александр Морин](https://www.facebook.com/profile.php?id=100013555926078), 
+   * [Денис Соболев](https://www.facebook.com/dnsobolev), 
+   * [Павел Максимов](https://www.facebook.com/goodppc), 
+   * [Дмитрий Воронин](https://www.facebook.com/profile.php?id=100013555569648) 
   
 
 3. [Ура - Аналитикс](https://github.com/UraAnalytics/corehackathon/)  
 
-[Антон Астахов](https://www.facebook.com/astakhoff), [Сергей Лосев](https://www.facebook.com/LossevSergey), [Иван Иванов](https://www.facebook.com/ivan.prometriki), [Юрий Батиевский](https://www.facebook.com/batievskiy)
+   ![](https://www.facebook.com/images/emoji.php/v9/f35/1/18/1f517.png) [Видео выступления](https://youtu.be/ZQg_yZ_fRnw?t=5837)
+
+   * [Антон Астахов](https://www.facebook.com/astakhoff), 
+   * [Сергей Лосев](https://www.facebook.com/LossevSergey), 
+   * [Иван Иванов](https://www.facebook.com/ivan.prometriki), 
+   * [Юрий Батиевский](https://www.facebook.com/batievskiy)
   
 
 ## Другие участники (в произвольном порядке):
